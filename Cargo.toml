@@ -14,6 +14,7 @@ esl01-indexedlog = "0.3.0"
 segvec = "0.2.0"
 smallvec = "1.13.2"
 syncbuf = "0.2.0"
+pizza-common={ path = "/Users/medcl/Documents/rust/pizza/lib/common"}
 
 [dev-dependencies]
 criterion = { version = "0.5", features = ["html_reports"] }
